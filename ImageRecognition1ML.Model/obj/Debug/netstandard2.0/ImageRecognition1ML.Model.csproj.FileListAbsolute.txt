@@ -1,0 +1,10 @@
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\bin\Debug\netstandard2.0\ImageRecognition1ML.Model.deps.json
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\bin\Debug\netstandard2.0\ImageRecognition1ML.Model.dll
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\bin\Debug\netstandard2.0\ImageRecognition1ML.Model.pdb
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.csprojAssemblyReference.cache
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.AssemblyInfoInputs.cache
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.AssemblyInfo.cs
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.dll
+C:\Users\Eran Heymann\source\repos\ImageRecognition1\ImageRecognition1ML.Model\obj\Debug\netstandard2.0\ImageRecognition1ML.Model.pdb
